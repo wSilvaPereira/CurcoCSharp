@@ -6,4 +6,8 @@
     <StartupObject></StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj" />
+  </ItemGroup>
+
 </Project>
